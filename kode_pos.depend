@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480740566 source:d:\college\kuliah\tubes asd rff 2016 r\kode_pos\main.cpp
+	<iostream>
+	"kodepos.h"
+
+1480740440 d:\college\kuliah\tubes asd rff 2016 r\kode_pos\kodepos.h
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+
+1480740492 source:d:\college\kuliah\tubes asd rff 2016 r\kode_pos\kodepos.cpp
+	"kodepos.h"
+
